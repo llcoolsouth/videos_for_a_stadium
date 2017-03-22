@@ -1,0 +1,59 @@
+/*div{
+  border: 1px solid red;
+}*/
+
+h1{
+  font-size: 110px;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+}
+
+.left-align{
+  padding-left: 60px;
+}
+
+.right-align{
+  padding-right: 60px;
+}
+
+.copy-align{
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+ul{
+  list-style-type: none;
+  padding-top: 60px;
+}
+
+li{
+  margin-bottom: 40px;
+}
+
+.map-image{
+  background-image: url(../images/mapimage.png);
+  height: 120px;
+  width: 326px;
+}
+
+.btn-primary-outline {
+  background-color: transparent;
+  border-color: black;
+  border: 2px solid;
+  color: black;
+  height: 70px;
+  width: 150px;
+}
+
+.headersize{
+  text-align: center;
+  padding-left: 20px;
+}
+
+.list-align{
+  text-align: center;
+}
