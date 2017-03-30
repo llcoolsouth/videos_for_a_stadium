@@ -132,7 +132,7 @@ footer{
   width:215px;
 }
 .button-time{
-  padding-left: 500px;
+  text-align: right;
 }
 .creative{
   background-image: url(../images/creative_logo.png);
